@@ -135,6 +135,3 @@ Once a proposal has enough votes, execute it with the executeProposal function.
 ```
 
 
-# Deployed Contracts
-
-- **Q testnet:** [Q DAO DApp](https://explorer.qtestnet.org/tx/0x25f3db37540221c05da63b36f5884ceb5c6e2ad51296b5b846f46d327504386b)
